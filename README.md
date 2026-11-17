@@ -23,6 +23,11 @@ subneteo, Cisco y Linux son el primer paso de un camino mas largo.
 - **Seguridad en redes**: comprender los protocolos a fondo para saber donde
   y por que fallan.
 
+  ## Certificaciones
+
+[<img src="https://raw.githubusercontent.com/iktan-core/iktan-core/main/networking-basics.png" width="110" alt="Cisco Networking Basics">](https://www.credly.com/badges/4493b443-7df2-46cb-a24c-ead66c7e8570/public_url)
+[<img src="https://raw.githubusercontent.com/iktan-core/iktan-core/main/introduction-to-cybersecurity.png" width="110" alt="Cisco Introduction to Cybersecurity">](https://www.credly.com/badges/4493b443-7df2-46cb-a24c-ead66c7e8570/public_url)
+
 ## En que ando ahora
 
 - **Redes digitales**: la carrera completa, desde los fundamentos de redes
