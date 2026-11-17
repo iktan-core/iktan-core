@@ -1,3 +1,5 @@
+blue-cat.gif
+
 # Jesus Trinidad Cruz Silva
 
 Hola, bienvenido a mi perfil de GitHub.
