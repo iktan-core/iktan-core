@@ -26,7 +26,7 @@ subneteo, Cisco y Linux son el primer paso de un camino mas largo.
   ## Certificaciones
 
 [<img src="https://raw.githubusercontent.com/iktan-core/iktan-core/main/networking-basics.png" width="110" alt="Cisco Networking Basics">](https://www.credly.com/badges/4493b443-7df2-46cb-a24c-ead66c7e8570/public_url)
-[<img src="https://raw.githubusercontent.com/iktan-core/iktan-core/main/introduction-to-cybersecurity.png" width="110" alt="Cisco Introduction to Cybersecurity">](https://www.credly.com/badges/4493b443-7df2-46cb-a24c-ead66c7e8570/public_url)
+[<img src="https://raw.githubusercontent.com/iktan-core/iktan-core/main/introduction-to-cybersecurity.png" width="110" alt="Cisco Introduction to Cybersecurity">](https://www.credly.com/badges/c7b96883-bc89-434c-b002-7833fe1c8b3d/public_url)
 
 ## En que ando ahora
 
