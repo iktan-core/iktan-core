@@ -1,5 +1,4 @@
-[<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/5c2cad79-d4eb-4491-935c-baa9656c314b" />
-](https://github.com/iktan-core/iktan-core/blob/main/blue-cat.gif?raw=true)
+[![banner](https://github.com/iktan-core/iktan-core/blob/main/blue-cat.gif?raw=true)](https://github.com/iktan-core)
 
 # Jesus Trinidad Cruz Silva
 
