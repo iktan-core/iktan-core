@@ -47,6 +47,7 @@ perfil conforme avance en mi formacion.
 | [ipv4-subnetting-lab](https://github.com/iktan-core/ipv4-subnetting-lab) | Segmentacion IPv4 Clase C /27 en hardware fisico Cisco |
 | [subneteo-ipv4-clase-b](https://github.com/iktan-core/subneteo-ipv4-clase-b) | Subneteo y direccionamiento Clase B con troubleshooting |
 | [legacy-docs](https://github.com/iktan-core/legacy-docs) | Archivo historico de guias y configuraciones |
+| waydroid-firewalld-fix | Diagnostico y solucion: Waydroid sin IPv4 en Debian con firewalld activo |
 
 ## Herramientas y stack
 
