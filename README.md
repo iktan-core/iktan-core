@@ -1,4 +1,4 @@
-[![banner](https://github.com/iktan-core/iktan-core/blob/main/blue-cat.gif?raw=true)](https://github.com/iktan-core)
+[![banner](https://github.com/iktan-core/iktan-core/blob/main/fyrY.gif?raw=true)](https://github.com/iktan-core)
 
 # Jesus Trinidad Cruz Silva
 
